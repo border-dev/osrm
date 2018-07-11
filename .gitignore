@@ -1,0 +1,14 @@
+# compiled output
+/es5
+/es6
+/browser
+
+# IDEs and editors
+/.idea
+node_modules
+
+# IDE - VSCode
+.vscode/*
+
+# misc
+npm-debug.log
